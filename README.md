@@ -3,6 +3,8 @@
   <img src="./assets/banner.png" alt="Jim's GitHub Banner" width="100%" />
 </p>
 
+![Header](./your-header-image-name.png)
+
 <!--
 **jim408401/jim408401** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
