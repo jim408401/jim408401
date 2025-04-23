@@ -1,71 +1,113 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Jim's GitHub Banner" width="100%" />
+</p>
+
 <!--
 **jim408401/jim408401** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
 
-## Hi there 👋, I'm Jim (jim408401)
-
-🔭 I’m currently working on **RAG-based AI Chatbot**  
-🌱 I’m learning **C# / ASP.NET** and **Advanced Quantitative Trading**  
-💬 Ask me about **LangChain**, **Streamlit**, **FastAPI**, **Quant Research**  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jim408401) / [Email](mailto:jim@example.com)  
-⚡ Fun fact: I love merging voice assistants with recipe & pantry management!
+<h1 align="center">Hi there 👋, I'm Jim (jim408401)</h1>
+<p align="center">
+  🔭 I’m currently working on **RAG-based AI Chatbot**  
+  🌱 I’m learning **C# & ASP.NET** and **Advanced Quantitative Trading**  
+  💬 Ask me about **LangChain**, **Streamlit**, **FastAPI**, **Quant Research**  
+  ⚡ Fun fact: I love merging voice assistants with recipe & pantry management!
+</p>
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 IDEs I Use
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="Rider" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="CLion" width="40" />
+</p>
 
-| Frontend                       | Backend / ML                                          | Database            | Others                        |
-| ------------------------------ | ----------------------------------------------------- | ------------------- | ----------------------------- |
-| ![React][react] ![TS][ts]      | ![Python][python] ![TensorFlow][tf]                    | ![MariaDB][mariadb] | ![Ubuntu][ubuntu]            |
-| ![Redux][redux] ![Next.js][next] | ![PyTorch][pytorch] ![scikit-learn][sklearn]           | ![MongoDB][mongodb] | ![Arduino][arduino]          |
-| ![Vue][vue] ![Sass][sass]      | ![Node.js][nodejs] ![FastAPI][fastapi]                 | ![MySQL][mysql]     | ![Raspberry Pi][raspberrypi] |
-| ![D3.js][d3] ![Bootstrap][bootstrap] | ![C#][csharp] ![Java][java]                          |                     | ![Git][git]                  |
+### 🔧 Version Control
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" />
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="GitLab" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" />
+</p>
+
+---
+
+### 💻 Languages & Frameworks I Use
+
+#### Frontend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" />
+</p>
+
+#### Machine Learning / Deep Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
+</p>
+
+#### Backend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
+</p>
+
+#### Database
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+</p>
+
+#### Other Tools I Use
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jim408401&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim408401&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jim408401&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jim408401&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 🔗 Connect with me
-
-[![LinkedIn][linkedin-shield]][linkedin-url]  
-[![Email][email-shield]][email-url]  
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/jim408401"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jim@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <!--
-**Icons & Badges Reference**
-
-[react]: https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
-[ts]: https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
-[python]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-[tf]: https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg
-[pytorch]: https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg
-[sklearn]: https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg
-[nodejs]: https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
-[fastapi]: https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png
-[mariadb]: https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg
-[mongodb]: https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg
-[mysql]: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg
-[vue]: https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg
-[sass]: https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg
-[d3]: https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg
-[bootstrap]: https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg
-[csharp]: https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
-[java]: https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
-[ubuntu]: https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg
-[arduino]: https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg
-[raspberrypi]: https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg
-[git]: https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
-
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/jim408401
-[email-shield]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[email-url]: mailto:jim@example.com
+#### Icon References
+[devicon repo]: https://github.com/devicons/devicon
 -->
