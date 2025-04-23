@@ -1,14 +1,16 @@
-###
-
-<p align="left">I’m Jim—a  software engineer who loves building fun AI & web stuff. Targeting software engineering, web dev, AI or data science roles to apply my skills and grow</p>
+<h2 align="center">About me</h2>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="center">I’m Jim, a software engineer who loves creating fun AI and web applications, and I’m looking for opportunities in software engineering, web development, AI, or data science to apply my skills and keep growing.</p>
 
 ###
 
-<div align="left">
+<h2 align="center">I code with</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
