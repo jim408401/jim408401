@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hey, I’m Jim 👋 A code-obsessed software engineer who geeks out on AI experiments and crafts cool web apps—always building fun stuff just for kicks.</p>
+<p align="center">Hey, Hey, I’m Jim 👋 A code junkie who loves messing around with AI—especially LLMs and RAG stuff—and whipping up fun web apps just for the thrill of it.</p>
 
 ###
 
