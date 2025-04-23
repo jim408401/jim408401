@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I’m Jim, a software engineer who loves creating fun AI and web applications, and I’m looking for opportunities in software engineering, web development, AI, or data science to apply my skills and keep growing.</p>
+<p align="center">Hey, I’m Jim 👋 I build AI-powered web apps for fun and I’m on the lookout for roles that let me keep learning and creating.</p>
 
 ###
 
