@@ -1,16 +1,6 @@
-<h1 align="left">Hey 👋 What’s up?</h1>
-
 ###
 
-<p align="left">I’m Jim—a  software engineer who loves building fun AI & web stuff.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎯 Targeting software engineering, web dev, AI or data science roles to apply my skills and grow</p>
+<p align="left">I’m Jim—a  software engineer who loves building fun AI & web stuff. Targeting software engineering, web dev, AI or data science roles to apply my skills and grow</p>
 
 ###
 
