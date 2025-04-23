@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hey, I’m Jim 👋 I build AI-powered web apps for fun and I’m on the lookout for roles that let me keep learning and creating.</p>
+<p align="center">Hey, I’m Jim 👋 A code-obsessed software engineer who geeks out on AI experiments and crafts cool web apps—always building fun stuff just for kicks.</p>
 
 ###
 
