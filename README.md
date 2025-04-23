@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Jim's GitHub Banner" width="100%" />
+  <img src="github-header" alt="Jim's GitHub Banner" width="100%" />
 </p>
 
 ![Header](./your-header-image-name.png)
