@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hey, Hey, I’m Jim 👋 A code junkie who loves messing around with AI—especially LLMs and RAG stuff—and whipping up fun web apps just for the thrill of it.</p>
+<p align="center">Hey, Hey, I’m Jim 👋 A code junkie who loves messing around with AI—especially LLMs and RAG stuff.</p>
 
 ###
 
