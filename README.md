@@ -1,7 +1,5 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="./github-header.png" alt="Jim's GitHub Banner" width="100%" />
-</p>
+![Header](./github-header.png)
 
 <!--
 **jim408401/jim408401** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
