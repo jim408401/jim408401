@@ -4,7 +4,7 @@
 
 <p align="center">
   Hey, I’m Jim 👋 A code junkie who loves messing around with AI—especially LLMs and RAG stuff.<br />
-  🌐 Check out my website: <a href="[https://jim408401.dev](https://jim408401.github.io/)" target="_blank">jim408401.dev</a>
+  🌐 Check out my website: <a href="[https://jim408401.dev](https://jim408401.github.io/)" target="_blank">[jim408401.dev](https://jim408401.github.io/)</a>
 </p>
 
 ###
