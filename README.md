@@ -2,12 +2,12 @@
 
 ###
 
-<p align="center">Hey, I’m Jim 👋 A code junkie who loves messing around with AI—especially LLMs and RAG stuff.</p>
+<p align="center">
+  Hey, I’m Jim 👋 A code junkie who loves messing around with AI—especially LLMs and RAG stuff.<br />
+  🌐 Check out my website: <a href="[https://jim408401.dev](https://jim408401.github.io/)" target="_blank">jim408401.dev</a>
+</p>
 
 ###
-
-<h1 align="center">My Website</h1>
-<p align="center"(https://jim408401.github.io/</p>
 
 <h1 align="center">I code with</h1>
 
@@ -48,5 +48,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
-
-###
