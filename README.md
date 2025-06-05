@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  Hey, I’m Jim Wu 👋 A code junkie who loves messing around with AI—especially LLMs and RAG stuff.<br />
+  Hey, I’m Jim Wu 👋  I mess with AI for fun—especially anything LLM-related.<br />
   🌐 Website: <a href="https://jim408401.github.io/" target="_blank">https://jim408401.github.io</a>
 </p>
 
