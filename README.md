@@ -7,7 +7,7 @@ I'm passionate about building cool stuff with AI, especially diving deep into la
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Programming Languages
 <p align="center">
