@@ -6,6 +6,11 @@ Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especial
 
 ---
 
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,python" />
+</p>
 ### Programming Languages
 
 | | | | |
