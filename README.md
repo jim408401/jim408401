@@ -16,11 +16,20 @@ Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especial
 </p>
 
 <p align="center">
-  
-| ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
-|---|---|---|---|
-
+  <span style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  </span>
+  <span style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+  </span>
+  <span style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" />
+  </span>
+  <span style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  </span>
 </p>
+
 
 
 
