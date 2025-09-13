@@ -23,10 +23,10 @@ Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especial
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mssql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
 </p>
 
 ### Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=subversion,git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab" />
 </p>
