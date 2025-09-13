@@ -6,6 +6,12 @@ Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especial
 
 ---
 
+### Programming Languages
+
+| | | | |
+|---|---|---|---|
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
+
 
 ### Programming Languages
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 12px;">
