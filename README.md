@@ -15,7 +15,7 @@
 <img src="./assets/devicon--python.svg" width="64" />
 <img src="./assets/devicon--r.svg" width="64" />
 
-<br><br>---<br><br>
+---
 
 ### Frontend
 <img src="./assets/devicon--html5.svg" width="64" />
@@ -26,7 +26,7 @@
 <img src="./assets/devicon--vuejs.svg" width="64" />
 <img src="./assets/devicon--react.svg" width="64" />
 
-<br><br>---<br><br>
+---
 
 ### Backend
 <img src="./assets/devicon--nodejs.svg" width="64" />
@@ -35,7 +35,7 @@
 <img src="./assets/devicon--dot-net.svg" width="64" />
 <img src="./assets/devicon--dotnetcore.svg" width="64" />
 
-<br><br>---<br><br>
+---
 
 ### Databases
 <img src="./assets/devicon--sqlite.svg" width="64" />
@@ -43,7 +43,7 @@
 <img src="./assets/devicon--microsoftsqlserver.svg" width="64" />
 <img src="./assets/devicon--mongodb.svg" width="64" />
 
-<br><br>---<br><br>
+---
 
 ### AI & Machine Learning
 <img src="./assets/devicon--huggingface.svg" width="64" />
@@ -51,7 +51,7 @@
 <img src="./assets/devicon--ollama.svg" width="64" />
 <img src="./assets/devicon--githubcopilot.svg" width="64" />
 
-<br><br>---<br><br>
+---
 
 ### DevOps & Version Control
 <img src="./assets/devicon--git.svg" width="64" />
@@ -63,7 +63,7 @@
 <img src="./assets/devicon--jenkins.svg" width="64" />
 <img src="./assets/devicon--kibana.svg" width="64" />
 
-<br><br>---<br><br>
+---
 
 ### Tools & Editors
 <img src="./assets/devicon--vscode.svg" width="64" />
