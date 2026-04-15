@@ -2,21 +2,21 @@
 
 > Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especially diving deep into LLM. I love experimenting with code and exploring new tech to bring ideas to life.
 >
-> 🌐 **Website**:[jim408401.github.io](https://jim408401.github.io)
+> 🌐 [jim408401.github.io](https://jim408401.github.io)
 
 <br>
 
 <div align="center">
 
-### Programming Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,python,r" />
 <br><br>
 
-### Frontend Development
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,sass,jquery,bootstrap,vue,react" />
 <br><br>
 
-### Backend Development
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet" />
 <br><br>
 
@@ -25,7 +25,7 @@
 <img src="./devicon--microsoftsqlserver.svg" width="48" />
 <br><br>
 
-### Version Control
+### Tools
 <img src="https://skillicons.dev/icons?i=git,gitlab" />
 
 </div>
