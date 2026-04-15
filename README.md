@@ -24,6 +24,7 @@ Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especial
 ### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+  <img src="./devicon--microsoftsqlserver.svg" width="48" />
 </p>
 
 ### Version Control
