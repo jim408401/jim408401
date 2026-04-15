@@ -17,7 +17,7 @@
 
 ---
 
-### Full Stack
+### Web Development
 <img src="./assets/devicon--html5.svg" width="64" />
 <img src="./assets/devicon--css3.svg" width="64" />
 <img src="./assets/devicon--sass.svg" width="64" />
@@ -42,9 +42,9 @@
 ---
 
 ### AI & Machine Learning
+<img src="./assets/devicon--ollama.svg" width="64" />
 <img src="./assets/devicon--huggingface.svg" width="64" />
 <img src="./assets/devicon--googlecolab.svg" width="64" />
-<img src="./assets/devicon--ollama.svg" width="64" />
 <img src="./assets/devicon--githubcopilot.svg" width="64" />
 
 ---
