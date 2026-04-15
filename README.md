@@ -2,7 +2,7 @@
 
 > Hey, I'm Jim Wu 👋 I like building cool stuff with AI and web tech. Always coding, always breaking stuff, always learning new things.
 >
-> 🌐 [jim408401.github.io](https://jim408401.github.io)
+> 🌐[jim408401.github.io](https://jim408401.github.io)
 
 <br>
 
@@ -14,7 +14,8 @@
 <img src="./assets/devicon--csharp.svg" width="64" />
 <img src="./assets/devicon--python-wordmark.svg" width="64" />
 <img src="./assets/devicon--r.svg" width="64" />
-<br><br>
+
+---
 
 ### Frontend
 <img src="./assets/devicon--html5-wordmark.svg" width="64" />
@@ -24,14 +25,16 @@
 <img src="./assets/devicon--bootstrap-wordmark.svg" width="64" />
 <img src="./assets/devicon--vuejs-wordmark.svg" width="64" />
 <img src="./assets/devicon--react-wordmark.svg" width="64" />
-<br><br>
+
+---
 
 ### Backend
 <img src="./assets/devicon--nodejs-wordmark.svg" width="64" />
 <img src="./assets/devicon--express-wordmark.svg" width="64" />
 <img src="./assets/devicon--fastapi-wordmark.svg" width="64" />
 <img src="./assets/devicon--dot-net-wordmark.svg" width="64" />
-<br><br>
+
+---
 
 ### Databases
 <img src="./assets/devicon--sqlite-wordmark.svg" width="64" />
@@ -40,7 +43,8 @@
 <img src="./assets/devicon--microsoftsqlserver-wordmark.svg" width="64" />
 <img src="./assets/devicon--mongodb-wordmark.svg" width="64" />
 <img src="./assets/devicon--kibana-wordmark.svg" width="64" />
-<br><br>
+
+---
 
 ### Tools
 <img src="./assets/devicon--git-wordmark.svg" width="64" />
