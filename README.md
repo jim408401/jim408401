@@ -9,15 +9,15 @@
 <div align="center">
 
 ### Languages
+<img src="./assets/devicon--python.svg" width="64" />
+<img src="./assets/devicon--csharp.svg" width="64" />
+<img src="./assets/devicon--r.svg" width="64" />
 <img src="./assets/skill-icons--javascript.svg" width="64" />
 <img src="./assets/skill-icons--typescript.svg" width="64" />
-<img src="./assets/devicon--csharp.svg" width="64" />
-<img src="./assets/devicon--python.svg" width="64" />
-<img src="./assets/devicon--r.svg" width="64" />
 
 ---
 
-### Frontend
+### Full Stack
 <img src="./assets/devicon--html5.svg" width="64" />
 <img src="./assets/devicon--css3.svg" width="64" />
 <img src="./assets/devicon--sass.svg" width="64" />
@@ -25,10 +25,6 @@
 <img src="./assets/devicon--bootstrap.svg" width="64" />
 <img src="./assets/devicon--vuejs.svg" width="64" />
 <img src="./assets/devicon--react.svg" width="64" />
-
----
-
-### Backend
 <img src="./assets/devicon--nodejs.svg" width="64" />
 <img src="./assets/devicon--express.svg" width="64" />
 <img src="./assets/devicon--fastapi.svg" width="64" />
