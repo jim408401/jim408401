@@ -8,12 +8,12 @@ Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especial
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,python,r" />
 </p>
 
 ### Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,vue,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,jquery,bootstrap,vue,react" />
 </p>
 
 ### Backend Development
@@ -28,5 +28,5 @@ Hey, I'm Jim Wu 👋  I'm passionate about building cool stuff with AI, especial
 
 ### Version Control
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,subversion" />
 </p>
