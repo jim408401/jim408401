@@ -2,8 +2,8 @@
   
 # About Me
 
-> Hi, there. I'm Jim Wu 👋 I like building cool stuff with AI and web tech.
-> Always coding, always breaking stuff, always learning new things.
+> Hi, there. I'm Jim Wu 👋 I like building cool stuff with AI and web tech.<br>
+> Always coding, always breaking stuff, always learning new things.<br>
 > 🌐 [jim408401.github.io](https://jim408401.github.io)
 
 <br>
