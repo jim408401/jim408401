@@ -1,3 +1,5 @@
+<div align="center">
+  
 # About Me
 
 > Hey, I'm Jim Wu 👋 I like building cool stuff with AI and web tech. Always coding, always breaking stuff, always learning new things.
@@ -5,6 +7,7 @@
 > 🌐 [jim408401.github.io](https://jim408401.github.io)
 
 <br>
+</div>
 
 <div align="center">
 
