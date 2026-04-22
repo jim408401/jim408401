@@ -61,5 +61,6 @@
 <img src="./assets/devicon--docker-wordmark.svg" width="64" />
 <img src="./assets/devicon--jenkins.svg" width="64" />
 <img src="./assets/devicon--kibana.svg" width="64" />
+<img src="./assets/devicon--postman.svg" width="64" />
 
 </div>
