@@ -53,13 +53,13 @@
 
 ### DevOps & Version Control
 <img src="./assets/devicon--git.svg" width="64" />
-<img src="./assets/devicon--github.svg" width="64" />
 <img src="./assets/devicon--gitlab.svg" width="64" />
-<img src="./assets/devicon--subversion.svg" width="64" />
-<img src="./assets/devicon--tortoisegit.svg" width="64" />
 <img src="./assets/devicon--docker.svg" width="64" />
+<img src="./assets/devicon--kubernetes.svg" width="64" />
+<img src="./assets/devicon--subversion.svg" width="64" />
+<img src="./assets/devicon--postman.svg" width="64" />
 <img src="./assets/devicon--jenkins.svg" width="64" />
 <img src="./assets/devicon--kibana.svg" width="64" />
-<img src="./assets/devicon--postman.svg" width="64" />
+<img src="./assets/devicon--jira.svg" width="64" />
 
 </div>
