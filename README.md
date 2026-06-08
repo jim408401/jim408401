@@ -20,10 +20,8 @@
 ---
 
 ### Web Development
-<img src="./assets/devicon--html5.svg" width="64" />
-<img src="./assets/devicon--css3.svg" width="64" />
-<img src="./assets/devicon--tailwindcss.svg" width="64" />
 <img src="./assets/devicon--sass.svg" width="64" />
+<img src="./assets/devicon--tailwindcss.svg" width="64" />
 <img src="./assets/devicon--bootstrap.svg" width="64" />
 <img src="./assets/devicon--vuejs.svg" width="64" />
 <img src="./assets/devicon--react.svg" width="64" />
