@@ -22,13 +22,14 @@
 ### Web Development
 <img src="./assets/devicon--html5.svg" width="64" />
 <img src="./assets/devicon--css3.svg" width="64" />
+<img src="./assets/devicon--tailwindcss.svg" width="64" />
 <img src="./assets/devicon--sass.svg" width="64" />
-<img src="./assets/devicon--jquery.svg" width="64" />
 <img src="./assets/devicon--bootstrap.svg" width="64" />
 <img src="./assets/devicon--vuejs.svg" width="64" />
 <img src="./assets/devicon--react.svg" width="64" />
 <img src="./assets/devicon--nodejs.svg" width="64" />
 <img src="./assets/devicon--express.svg" width="64" />
+<img src="./assets/devicon--nextjs.svg" width="64" />
 <img src="./assets/devicon--fastapi.svg" width="64" />
 <img src="./assets/devicon--dot-net.svg" width="64" />
 <img src="./assets/devicon--dotnetcore.svg" width="64" />
