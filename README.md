@@ -27,6 +27,7 @@
 <img src="./assets/devicon--nextjs.svg" width="64" />
 <img src="./assets/devicon--fastapi.svg" width="64" />
 <img src="./assets/devicon--dot-net.svg" width="64" />
+<br>
 <img src="./assets/devicon--dotnetcore.svg" width="64" />
 <img src="./assets/devicon--mongoose.svg" width="64" />
 <img src="./assets/devicon--html5.svg" width="64" />
