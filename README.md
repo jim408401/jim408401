@@ -13,31 +13,32 @@
 ### Languages
 <img src="./assets/devicon--python.svg" width="64" />
 <img src="./assets/devicon--csharp.svg" width="64" />
-<img src="./assets/devicon--r.svg" width="64" />
 <img src="./assets/skill-icons--javascript.svg" width="64" />
 <img src="./assets/skill-icons--typescript.svg" width="64" />
+<img src="./assets/devicon--r.svg" width="64" />
 
 ---
 
 ### Web Development
-<img src="./assets/devicon--sass.svg" width="64" />
-<img src="./assets/devicon--tailwindcss.svg" width="64" />
-<img src="./assets/devicon--bootstrap.svg" width="64" />
-<img src="./assets/devicon--vuejs.svg" width="64" />
 <img src="./assets/devicon--react.svg" width="64" />
+<img src="./assets/devicon--vuejs.svg" width="64" />
 <img src="./assets/devicon--nodejs.svg" width="64" />
 <img src="./assets/devicon--express.svg" width="64" />
 <img src="./assets/devicon--nextjs.svg" width="64" />
 <img src="./assets/devicon--fastapi.svg" width="64" />
 <img src="./assets/devicon--dot-net.svg" width="64" />
 <img src="./assets/devicon--dotnetcore.svg" width="64" />
+<img src="./assets/devicon--mongoose.svg" width="64" />
+<img src="./assets/devicon--sass.svg" width="64" />
+<img src="./assets/devicon--bootstrap.svg" width="64" />
+<img src="./assets/devicon--tailwindcss.svg" width="64" />
 
 ---
 
 ### Databases
-<img src="./assets/devicon--sqlite.svg" width="64" />
-<img src="./assets/devicon--mysql.svg" width="64" />
 <img src="./assets/devicon--microsoftsqlserver.svg" width="64" />
+<img src="./assets/devicon--mysql.svg" width="64" />
+<img src="./assets/devicon--sqlite.svg" width="64" />
 <img src="./assets/devicon--mongodb.svg" width="64" />
 
 ---
