@@ -2,7 +2,8 @@
   
 # About Me
 
-> Hi, there. I'm Jim Wu 👋. Software Engineer specializing in full-stack web development and LLM-driven integrations. Experienced in optimizing system performance, developing enterprise software solutions, and delivering AI-powered features that improve workflow efficiency. Passionate about new technologies and building innovative solutions.<br>
+> Hi there! I'm Jim Wu 👋 <br>
+I'm a Software Engineer specializing in full-stack web development and LLM-driven integrations. Experienced in optimizing system performance, developing enterprise software solutions, and delivering AI-powered features that improve workflow efficiency. Passionate about exploring emerging technologies and building innovative solutions.<br>
 > 🌐 [jim408401.github.io](https://jim408401.github.io)
 
 <br>
